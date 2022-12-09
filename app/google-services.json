@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027654096127",
+    "project_id": "cutoff-b-pharmacy",
+    "storage_bucket": "cutoff-b-pharmacy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027654096127:android:f44d531c84656cd852e8ca",
+        "android_client_info": {
+          "package_name": "com.codizcdp.cutoffbpharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027654096127-kv0tae21486nl5vjifffg1rs65hii86n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBTBd-F5oKqkFUYgwbqlYVe7C7hRbrOvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027654096127-kv0tae21486nl5vjifffg1rs65hii86n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
